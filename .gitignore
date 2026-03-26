@@ -1,0 +1,23 @@
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+.eggs/
+venv/
+.venv/
+env/
+.env
+
+# OAuth credentials - NEVER commit these
+credentials.json
+token.json
+
+# Reports
+*.csv
+report_*.json
+
+# IDE
+.vscode/
+.idea/
